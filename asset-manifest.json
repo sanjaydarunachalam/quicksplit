@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/quicksplit/static/css/main.42db5006.css",
-    "main.js": "/quicksplit/static/js/main.5cb99031.js",
+    "main.js": "/quicksplit/static/js/main.a9baaec9.js",
     "static/js/787.41a65b80.chunk.js": "/quicksplit/static/js/787.41a65b80.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/quicksplit/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/quicksplit/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -15,11 +15,11 @@
     "static/media/oswald-v53-latin-regular.woff2": "/quicksplit/static/media/oswald-v53-latin-regular.a1415da4d7ad28ef8f9e.woff2",
     "index.html": "/quicksplit/index.html",
     "main.42db5006.css.map": "/quicksplit/static/css/main.42db5006.css.map",
-    "main.5cb99031.js.map": "/quicksplit/static/js/main.5cb99031.js.map",
+    "main.a9baaec9.js.map": "/quicksplit/static/js/main.a9baaec9.js.map",
     "787.41a65b80.chunk.js.map": "/quicksplit/static/js/787.41a65b80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42db5006.css",
-    "static/js/main.5cb99031.js"
+    "static/js/main.a9baaec9.js"
   ]
 }
