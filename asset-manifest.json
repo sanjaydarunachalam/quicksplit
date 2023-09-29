@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.b74a8631.css",
-    "main.js": "/react-gh-pages/static/js/main.2bf09456.js",
-    "static/js/787.41a65b80.chunk.js": "/react-gh-pages/static/js/787.41a65b80.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-gh-pages/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/react-gh-pages/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react-gh-pages/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/react-gh-pages/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-gh-pages/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/QuickSplitLogo.png": "/react-gh-pages/static/media/QuickSplitLogo.34f61da8cef2b8526a95.png",
-    "static/media/oswald-v53-latin-500.woff2": "/react-gh-pages/static/media/oswald-v53-latin-500.fb047f0c1c52a07547b2.woff2",
-    "static/media/oswald-v53-latin-700.woff2": "/react-gh-pages/static/media/oswald-v53-latin-700.f7ade8277d927ff69c37.woff2",
-    "static/media/oswald-v53-latin-300.woff2": "/react-gh-pages/static/media/oswald-v53-latin-300.e6020037afcf5781b693.woff2",
-    "static/media/oswald-v53-latin-regular.woff2": "/react-gh-pages/static/media/oswald-v53-latin-regular.a1415da4d7ad28ef8f9e.woff2",
-    "index.html": "/react-gh-pages/index.html",
-    "main.b74a8631.css.map": "/react-gh-pages/static/css/main.b74a8631.css.map",
-    "main.2bf09456.js.map": "/react-gh-pages/static/js/main.2bf09456.js.map",
-    "787.41a65b80.chunk.js.map": "/react-gh-pages/static/js/787.41a65b80.chunk.js.map"
+    "main.css": "/quicksplit/static/css/main.42db5006.css",
+    "main.js": "/quicksplit/static/js/main.5cb99031.js",
+    "static/js/787.41a65b80.chunk.js": "/quicksplit/static/js/787.41a65b80.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/quicksplit/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/quicksplit/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/quicksplit/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/quicksplit/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/quicksplit/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/QuickSplitLogo.png": "/quicksplit/static/media/QuickSplitLogo.34f61da8cef2b8526a95.png",
+    "static/media/oswald-v53-latin-500.woff2": "/quicksplit/static/media/oswald-v53-latin-500.fb047f0c1c52a07547b2.woff2",
+    "static/media/oswald-v53-latin-700.woff2": "/quicksplit/static/media/oswald-v53-latin-700.f7ade8277d927ff69c37.woff2",
+    "static/media/oswald-v53-latin-300.woff2": "/quicksplit/static/media/oswald-v53-latin-300.e6020037afcf5781b693.woff2",
+    "static/media/oswald-v53-latin-regular.woff2": "/quicksplit/static/media/oswald-v53-latin-regular.a1415da4d7ad28ef8f9e.woff2",
+    "index.html": "/quicksplit/index.html",
+    "main.42db5006.css.map": "/quicksplit/static/css/main.42db5006.css.map",
+    "main.5cb99031.js.map": "/quicksplit/static/js/main.5cb99031.js.map",
+    "787.41a65b80.chunk.js.map": "/quicksplit/static/js/787.41a65b80.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b74a8631.css",
-    "static/js/main.2bf09456.js"
+    "static/css/main.42db5006.css",
+    "static/js/main.5cb99031.js"
   ]
 }
